@@ -16,5 +16,9 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning git and github workflows.
 - 🎮 Trying to move towards a career in eSports.
+- 🎬 favourite movie: Your Name
 
+<picture>
+ <img alt="Your Name Poster" src="https://images7.alphacoders.com/737/737400.jpg">
+</picture>
 
