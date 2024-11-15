@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - 🎬 favourite movie: Your Name
 
 <picture>
- <img alt="Your Name Poster" src="https://images7.alphacoders.com/737/737400.jpg">
+ <img alt="Your Name Poster" src="https://emqinxnba2f.exactdn.com/wp-content/uploads/2019/03/Your-Name.jpg?strip=all&lossy=1&sharp=1&ssl=1">
 </picture>
 
