@@ -18,7 +18,4 @@ Here are some ideas to get you started:
 - 🎮 Trying to move towards a career in eSports.
 - 🎬 favourite movie: Your Name
 
-<picture>
- <img alt="Your Name Poster" src="https://emqinxnba2f.exactdn.com/wp-content/uploads/2019/03/Your-Name.jpg?strip=all&lossy=1&sharp=1&ssl=1">
-</picture>
 
